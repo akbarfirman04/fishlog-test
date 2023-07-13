@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <div
       className="flex justify-between py-12 px-20"
-      style={{ backgroundColor: "#0072F5", color: "#FFFFFF" }}
+      style={{ backgroundColor: "#1D4080", color: "#FFFFFF" }}
     >
       <div className="w-96">
         <h3>

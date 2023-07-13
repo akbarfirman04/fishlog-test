@@ -6,9 +6,10 @@ export default function Top() {
         src="/img4.jpg"
         css={{ w: "100vw", h: "500px" }}
         objectFit="cover"
+        alt=''
       />
       <div
-        style={{ backgroundColor: "#0072F5", color: "#FFFFFF" }}
+        style={{ backgroundColor: "#1D4080", color: "#FFFFFF" }}
         className="p-20"
       >
         <h1>This is Title</h1>
